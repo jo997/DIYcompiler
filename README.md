@@ -6,9 +6,8 @@ goal:
 -- in C?  
     
 look at:  
--> https://visualstudiomagazine.com/articles/2014/05/01/how-to-write-your-own-compiler-part-1.aspx  
--> https://dev.to/nilmadhabmondal/let-s-develop-an-online-code-editor-compiler-like-hackerrank-3k0l  
--> https://hackaday.com/2022/11/27/create-a-compiler-step-by-step/  
+-> https://norasandler.com/2017/11/29/Write-a-Compiler.html  
+-> https://www.stack.nl/~marcov/compiler.pdf  
 -> Overview stackoverflow: https://stackoverflow.com/questions/1669/learning-to-write-a-compiler  
 
 
